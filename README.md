@@ -44,3 +44,6 @@ http://list.deeplist.nl/live/jcantel/cantel123/926.ts
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series", TELECINE TOUCH HD
 http://list.deeplist.nl/live/jcantel/cantel123/927.ts
+
+#EXTINF:-1 tvg-logo=group-title="Filmes e Series",
+http://viptv3.dyndns.tv:2086/live/issa01/issa01/9.ts
