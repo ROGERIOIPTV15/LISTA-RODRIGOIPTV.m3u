@@ -530,3 +530,6 @@ http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A5Pnx5h.jpg" group-title="Filmes Adultos", Marido aquecendo para o negrão comer
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 10
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E10.mp4
