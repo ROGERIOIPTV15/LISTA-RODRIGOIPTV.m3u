@@ -1,422 +1,1549 @@
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tSfnjXQ.png" group-title="Adulto", Jasmin.TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE BRASIL
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Fetish
-http://live.redtraffic.xyz/fetish.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE BA HD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?JOSE-LISTA
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Interracial
-http://live.redtraffic.xyz/interracial.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Latina
-http://live.redtraffic.xyz/latina.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV UP HD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX MILF
-http://live.redtraffic.xyz/milf.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX POV
-http://live.redtraffic.xyz/pov.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REAL MADRID TV (ON)
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Russian
-http://live.redtraffic.xyz/russian.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ABU DABI SPORT 2 HD (ON)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Teen
-http://live.redtraffic.xyz/teen.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Threesome
-http://live.redtraffic.xyz/threesome.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FOX HITS
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX TRANS 1
-https://www.ast.tv/stream/1/cellular.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX TRANS 1 HD
-https://www.ast.tv/stream/1/high.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX TRANS 1 FHD
-https://www.ast.tv/stream/1/ultra.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX TRANS 2
-https://www.ast.tv/stream/2/cellular.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIÁRIO DO SERTÃO - PARAÍBA
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX TRANS 2 HD
-https://www.ast.tv/stream/2/high.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIÁRIO DO SERTÃO - PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX TRANS 2 FHD
-https://www.ast.tv/stream/2/ultra.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CARUARU
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UWbo6o1.jpg" group-title="Filmes Adultos", Brasileirinhas - Ai Se Eu Te Pego
-https://lh3.googleusercontent.com/2PmG4mYxqbBr6YKh3HiDhSxQhBM-P9yILAYTdQg5eYy_QW6oPXTPe7uqRqg53NeXY4zgVaPVjPm_J5FEBCLkwcpv6kd1OGK03z6fxWVUUVIMXz5JjG10lztGxgPNJnE_ZkCYiKBQMA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DEGIHKi.jpg" group-title="Filmes Adultos", Brasileirinhas - A Nova Fernandinha Fernandez
-https://lh3.googleusercontent.com/GikGeV3vI57V5_HHuAP12qMGn1ZNGZMRuxg4U9H8jHVAqs5RVJjni_6oxYigY9zZn7ZCqMGMkYMyWEK_D9BuAfVOL9_cqxBDVuZcE2ES4I2Z_sJtaKcIHc1-73o7MqGxcvEyXn9t9Q=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Xn8pju5.jpg" group-title="Filmes Adultos", Brasileirinhas - A Idade da Loba
-https://lh3.googleusercontent.com/W2-mQUmFGdXMB8SuDPUg4d5P0EVc9Dk1guTGMqxDbAYGAx-tpO4gksd4G52n1PNzrgoZkkFDOKCl7_wNrkNqTnvUND7BTZMUeAaKcORWzr1H1oWp0VuIKXnFYyNMHzYwyT0R3mAbcQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uCvtyBG.jpg" group-title="Filmes Adultos", Brasileirinhas - Perigosa Regininha
-https://lh3.googleusercontent.com/CaSupRjyk7jbPrXjBm3C-I8mpzDlX6x_izFen7PhDYNGfNwujj-hwHWWgqYuI1Ly9fdfBPbp_CrN27vNM09Otbr7hE8vDtGJvB53GKsm2tJqGjd4s-i8ZCGsQ9iivkX-HYUCaLrzOg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/auwGe49.jpg" group-title="Filmes Adultos", Brasileirinhas - Na Teia do Sexo
-https://lh3.googleusercontent.com/5fwlyvgBW-wbgKk3EI9yguxJAM2AebRpPfcgbcvMUwNlBZwrQWrcoJGTzhUjlF0xWqV-7PFKTEEVHRhtenNEEA_u2aaIlh1xBMkGGWZM_S3_4Y6bpcNdIRNwisi07n_FIFTSH_1Ksg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mkwdrkp.jpg" group-title="Filmes Adultos", Brasileirinhas - Melancia a Fruta do Prazer
-https://lh3.googleusercontent.com/OxvHlMUq2x3Jc46jYn01u_Z3SQAaQ-kITCbjaERIEHy9btAtplatEcoxsvWlkuvXqiQc6bcRL1eAfO-vnIB40lgXedEMVFrK_FS-w87QT-GoV6sEubYiR0m3GQp1u7GyRtF4f9k5Wg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kIPIl8y.jpg" group-title="Filmes Adultos", Brasileirinhas - Forum Brasileirinhas 30
-https://lh3.googleusercontent.com/o_EBvbNUxlmp8d69DggxBnna_71BbuIxDRqfvDLrGhKZtde3TCOvm6W1NS-Oy7tnLUo1wyrsUxBwr892BE23PnLCEx5tjuQlMmoRHFXzG62O_t1cjqGjE-iHNl_8M_FX4z0pRhSF2g=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MISSÃO
+http://wse7.player.tv.br:1935/tvmissao/mp4:tvmissao/chunklist_w2064616456.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ENUv9OX.jpg" group-title="Filmes Adultos", Brasileirinhas - Cu de Bêbada Não Tem Dono
-https://lh3.googleusercontent.com/cPkn6GAV_B2QWCpssuPRf7k7g7SHH1H6zAntiMAKaLNQyQ5VC5qw4meMCZQh69WBtz1japTZE7AScpjDP98XY4Fq9aTMxNbjMSyg1LYbGyQSWqUA5v9kWprUWliVlpR5-16uV8_yLg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV LEÃO DE JUDÁ
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QQ6Zfcf.jpg" group-title="Filmes Adultos", Brasileirinhas - Copa do Sexo
-https://lh3.googleusercontent.com/uWhK4SIICSa_uat9w3KeFvXx2AHDMf2ys5d4JrtS9-ALr5g6WVWbT9GKiKiQDruzNft2W8B9rE5oa4JBpoaQbO1LRxMVEaWsXH9vwcrmKXi1dU3Mu-MAYcZXFebyRIQyDGERMSVMfg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV GIDEÕES HD
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RBuOZnr.jpg" group-title="Filmes Adultos", Brasileirinhas - A Flor da Pele
-https://lh3.googleusercontent.com/rPguQ6paP5ExxJuybYgwqL1ZQYGEjiBSyCTAsVmgHayIGRRwNnAa7RCGpNVrQ8d4-j6-1LRrEiOgLz-Mt97DmsoKRyyypNGdZNrK14K_Tjw7C5q7yTBOPx0cVRJNi1yFEWltdpAcRQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Stephen Hawking e as Células-Tronco
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aipXKKz.jpg" group-title="Filmes Adultos", Brasileirinhas - Turbinadas
-https://lh3.googleusercontent.com/U8lrFr9bAGcAG4jBeZpiwgwSOmtnbUUoGvhZ3Dz4UL9i9gKYoInOTrqElS19PeRvEgjkxgut2USIVemWDr3cCo6Igw4lvWukl1PUnMUYR7s1CxEVixEo8Ja3f_BLU1rRP4HG63qFZQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", O Sentido Da Vida Stephen Hawking
+http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pgTBmrG.jpg" group-title="Filmes Adultos", Brasileirinhas - Vídeo Chamada
-https://lh3.googleusercontent.com/y8VJl5gw2IkUc8_e8KUUn1WvksOPD31DW6AKPcpf5fbKh5Mr5pKXSSlTzyoNeDFChaWkLs8xm5cyJ2k-ZREHPFdK1wlxa3lhrOc5RDDbEX_32FJUvf-mn812iFv1GPqbOkRS4QUFTA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", alem dos limites humanos - hipoxia
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EALtrd7.jpg" group-title="Filmes Adultos", Brasileirinhas - Pagode Sexual
-https://lh3.googleusercontent.com/TQ3B48s3tHYa_US5sGnKeFGm8-72I-D7l7eZwZ_6w81Ll1yD4NlZdf5CR2_1T_CX0Db1fhSuawt8CaCqw_6CYLGUzmkU-2cI1uTpo7bZbztWmFV8JePsI4NPy_u71IzT8cHGMccOlw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", alem dos limites humanos -frio
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2iHWjbC.jpg" group-title="Filmes Adultos", Brasileirinhas - Olim Piadas da Sacanagem
-https://lh3.googleusercontent.com/3YVyTcWgHXKmahLT_S1bgd7_ZoyBuaAA9Pzd0y6F0OtHaRDb7fUmtFmFfqOdRHkee6REcINMpf8C8vn7BPRvznRrkpluFL5R8HITTTmMEFM-6GXm4w33j1QuB331_M0YHjToyINGLw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", alem dos limites humanos -tempo
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/SqA3wf3.jpg" group-title="Filmes Adultos", Brasileirinhas - Histórias De Uma Gueixa
-https://lh3.googleusercontent.com/3sc7ZV68pQBsuI4BnvIbDuLPBuqJuJdKKvWEj9o_O0zT6wrzPcuw5pUIciGbzT0RJE0Msec3LKwdaDE9mEFuaYs-WKyY7deYjZaZwz6qXg-GjorW76UPkPC-PaRT7xUVfUM2tzpgAQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telescópio O universo revelado
+http://archive.org/download/Telescopio-2016/TELESC%c3%93PIO%20-%20O%20UNIVERSO%20REVELADO%20480p%20HDTV-Master.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aTrA9tp.jpg" group-title="Filmes Adultos", Brasileirinhas - O Jardineiro Tarado
-https://lh3.googleusercontent.com/aX23MGxVptlaUbYMr7LQSmkIqwvB_nJ2AV0UH2Yh3pot2Kjr3KXPqBvsdanLhnC7Uh002CJdd228Pl-TFaB_tgz1yG48avZGh3g0YQKOgXIz3JecRpy6Y7LU7wQlFEKMUpoyGds5bg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Terceiro Reich: Ascensão
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Ascens%c3%a3o.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6cbRFRk.jpg" group-title="Filmes Adultos", Brasileirinhas - Massagem Erótica 2
-https://lh3.googleusercontent.com/bMPqMUVTSRZGZFlE9zgv46Oav6pOtw-1Ox_AtVw7LHFinucdBwfHh3wpgGIawTV9PSvRKJ1praz2DNx0wbesGjKo6QXEgCu95ehUbKUVfCg7WJjYYT2BJmlSMIM9GykPKEgp8r-ULw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Terceiro Reich: Queda
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Zc2cH7F.jpg" group-title="Filmes Adultos", Brasileirinhas - Lambuzadas 2
-https://lh3.googleusercontent.com/yyZGr0aQ7rHAL9tl6spPw382e6wPm7Zswnbs5MqNajCX6dFGeSieDf1CFb_kZfjnX4Jz5Sx3w3UENU_PR3RjGQ1XIa4QKOZzrAbre1mePYsAHNmgs6QawGusgPZf2MVbOHCQaDQBCA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal 26 | HD
+http://200.115.193.177/live/26hd-720/.m3u8?CompartilhandoIPTV
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KvViyQQ.jpg" group-title="Filmes Adultos", Brasileirinhas - Estrelas em Busca de Prazer
-https://lh3.googleusercontent.com/iqbIO1eTQhnshwkxSFWNCyH-2KIEbnlAguGtix9ZyQSgS1yMy3VdxqRM7Hynx_s6Xz0FkKCOVbS90DyosAAkUklJMBtxMNrf42ydQfBGq0EkutlACd7T9caSHr14Mfto6Ku5y_pILQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal 26 | HD
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tvjN0Q8.jpg" group-title="Filmes Adultos", Brasileirinhas - Dr. Clitóris
-https://lh3.googleusercontent.com/_6gTzSzhtLcZ5_zf7saUeFt5Mvt9X2bsTrhpq47XLDptPrnP2wB8I0CC34ApI2v_zGBBAz4HFGokarmfGBvXjo9aUc0z17drEsYucfZiqqnp3KuVe0WXwQMZ-Kv5L5QQyT4UECgLRw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3WuVSN9.jpg" group-title="Filmes Adultos", Brasileirinhas - Suzana e Amigas
-https://lh3.googleusercontent.com/ckipXDB-6AIc2HY-OAzY6W_neTGYQEkQRmpTIEuRHB-LDUuom3l1jfnN-rKqrFrhiabywHf_CUHsKHnWJHCFJreu4g_UE3q_Go32_szuHey03a6oKufzCOq7ATLTv4DC002TEeaNtw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/P7kYlYw.jpg" group-title="Filmes Adultos", Brasileirinhas - Garota Country
-https://lh3.googleusercontent.com/RmJJvi1Y1Z6rQ2wgh6SRo_6uLjLJWc37VFl3zvlJkotVWpxeGdlfIhglFS1BKDbdreC4w05cS9VBSovJu8anxfFPSuK06W885gLN-OR0H3DH0Q-gNeDzmDk2Zq4HF-acJQXVX_pZNw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MqoHtDZ.jpg" group-title="Filmes Adultos", Brasileirinhas - Carnafunk 2013
-https://lh3.googleusercontent.com/ZyffU0bLgcFhIcL36D3ef94uWHGIXjNZEbmxfCIFsReavfPu314oWOyp8VedU2iLEgL0jN8SHnVPJ_AEBIrWmLMK6r5WDyJHP6Sj1hd0E8ASBJR4RAVmFxQJkmr1d8IRxkxbWmIGmQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal Provincial | SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BYjqCAi.jpg" group-title="Filmes Adultos", Brasileirinhas - 69 Tons de Pica
-https://lh3.googleusercontent.com/JwBbws7Lv0_qimRyQQGK3CeXofcD3LPJRL0GnJ-kjFX3Fh6kASBMK5lxVe1dVW_BYEV5RfCV0Bwuq39a1DvB0ZPij3BoIwUhWM4Nv0XDczBv6SXwOugX7DsSQ4s1Qizns38R7hQRFQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RZsVHUQ.jpg" group-title="Filmes Adultos", Brasileirinhas - Aqui Tudo Acaba em Pizza
-https://lh3.googleusercontent.com/Jcm3Mp4m1_WmLVGK4zzH3g576DAEllh1PnHPAuUoS6omAyNErSifiRJu5iJ-IEnPFt3KYS1e9bMkVqWy0a8SDqEQ0THlpNR8-GyCufhnUhKPI-mySDus-rJJCmafBz6ra9-KhKqPxw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Tele Islas | SD
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XdEywI6.jpg" group-title="Filmes Adultos", Brasileirinhas - Com Vergonha de Dar o Rabo
-https://lh3.googleusercontent.com/SnROp32Ovc0VsVr-WJ9D5CNlmgechtgzYiB_8wkKD8anTY2V2NRurekD6smtkPSwGVqVbEKm0-SSdZGMTFc8aCJPr7p6my8De8ItwLzu3JAtW7Mec_qnARgWVN2MZ-H5UujHLUWF5A=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CDO | SD
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XHcWynV.jpg" group-title="Filmes Adultos", Brasileirinhas - Titias Gostosas
-https://lh3.googleusercontent.com/YMF2pDximJmUjN42I4oNhuRJwGXqVp4ci441zryqKTAVGr_Tv4AUVIjSxuDOUl80DAQ9-s75_B4OvVHjFJlViQx9xlke6OU97u6fxp016m2JXIt3fGXCgAgQDi7_qkCZanH_TqwfjA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/q3LUa7t.jpg" group-title="Filmes Adultos", Brasileirinhas - A Maior Orgia do Brasil
-https://lh3.googleusercontent.com/M0s9kdXyRYAIRVaBHabLYSdT730E48W4v-_4C0L2MeCYW-UdxZkKfFkCYGrTen3n8NjJbyVtLsljifvZIlayTJk4XGtvXPUU1FHduHflKGGk2B46UF27gy9iz8WBWQQqfVNYNybT9g=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal 10 MEXICO
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tSfnjXQ.png" group-title="Adulto", Jasmin.TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RTQ MEXICO
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto", XXX Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RCG 2 TV MEXICO
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/McNGD2C.jpg" group-title="Filmes Adultos", Brasileirinhas - Carnaval 2019
-https://lh3.googleusercontent.com/JJ3saA-co5IOa0z1obxdjG57FYwsm2VOR2Cb4JsYdl8DymbVhblGxUasATuGTVejevt_p-9HLS7GseGYnThono5_JuDQVSwd4Zx4StnC19m7tE65wgvk6LOJbY8u7qew05E_Lln05A=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RCG 1 TV MEXICO
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pw10IvX.jpg" group-title="Filmes Adultos", Brasileirinhas - CarnaFunk 2019
-https://lh3.googleusercontent.com/zTCoZEzXIFwhrGOyNdlEo3MR_-FTE-GZXbQ4_oMuRA8LidmwXjtKeg_UOlpiLvI1Z02091zTrEOuHfTiGJ-rn50eXScmj_br2izmGRNcpjq4FODL_eGCNsR-wQZxNGWt9DSX8xVsYw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telemar MEXICO
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RNkL3Cc.jpg" group-title="Filmes Adultos", Brasileirinhas - Sádica
-https://lh3.googleusercontent.com/K_01U099qBpXyOsIJJoOXYkV41Wrg5jY_Zhjul2pFsdm6r4a9i4iAMqHJ2TQZt8erVTGyb6p-6srpnNusOG52IUHMPfh7Ei2XAutcsoBsJE7nU9rOoU_7PPnC7hk1ylmN3MYIKaFhA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Once TV MEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fFb1wJh.jpg" group-title="Filmes Adultos", Brasileirinhas - Baby Face 3
-https://lh3.googleusercontent.com/wto9GwLcWpHhZdcflWHBZ1o-y2lvopyX24O3iaiAWF1d2zyYZvje_bvElSLGWwmKYbfY9VGuH7v51hK9ozwUtwBadqqaaZfgC3SMOsbzI_4WOcoUUkue7xs8psqqMACF6P8CJWpl2g=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTIMEDIOS MONTERREY 1 - MÉXICO
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JzvTQxx.jpg" group-title="Filmes Adultos", Brasileirinhas - Debutantes
-https://lh3.googleusercontent.com/uu4vCAQuzPi2x8Lw4FsYSqpVEVRrIqGtTvvBTbPSaonV7dWnrmiuXtSGTJjIMH7OvmXzDTLal6_Wl4VI6760iMAzj4GuRlwRyiYfKz9YkTqVVzALhOIJZPbHUh1XnT381wrsQrnt7Q=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTIMEDIOS MONTERREY 2 - MÉXICO
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HZ1Xs00.jpg" group-title="Filmes Adultos", Brasileirinhas - Kid Bengala 5
-https://lh3.googleusercontent.com/gIxIJKTq_Iweh6F7RR6vbe5x_Mz699JC4G-Bw18hk8xp4_GB--kvfhWVVjI5Y1g99C9QwRZr2Ff7zeMtKlNvaPLyojkxr4B5BRelKbnpBptv5AxOPi6vIep22Vyuuc2R1CHwxJTSEA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uNq1q6I.jpg" group-title="Filmes Adultos", Brasileirinhas - A Garota do Whats
-https://lh3.googleusercontent.com/87yTUVhB0dmVmepg04U3OMOwQyO2AuLyu1YGf0Ive59IzuzkvvA3Flar23ZFie0OInK5XcicQCYdJvm2WYKVfiBYB_4_ge47Twq6kK1CWY9VN9puJ_YpO2hxqt8G6oMUfB9By3Wl0g=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Top Latino | SD
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NHeX1qg.jpg" group-title="Filmes Adultos", Brasileirinhas - Homem Não Entra 9
-https://lh3.googleusercontent.com/hWTbDearJLxSHeKQWUqjY85fqMs3ItxGCHOyjXFnvgFQ-3vLOSNSuAOtO8edfKrXjJz_JSTQ2F7SPdJ1GP3nW3tF0orAFEOSeaIcigIJ0Ko1vCOp8yKD_8qse5tXWJHB9wUa2w_ROg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/evnE3WH.jpg" group-title="Filmes Adultos", Brasileirinhas - Kid Bengala e Suas Ninfetas
-https://lh3.googleusercontent.com/jwNv5tGeTrHG4TIhOFfJFqR-8_kF3B_pB1hzl870hkfOVtuExFR14O_VPoO4x87HH0vTEIiVq4oOAh9Qcy692sYlFBjkqr_COk9PJ7Bk0vt7CFuf6y_os9j2XQnNyHutIeT0ZwT1DA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FnZEYAb.jpg" group-title="Filmes Adultos", Brasileirinhas - Frota Monica e cia
-https://lh3.googleusercontent.com/AqbwTy6sThCO6nSK24M0KoAOWtOoGD06Rl4kXDejBpq8uubqAT-O8qbv6jDTgao5zcqefezIZjgOhhJ3FxdRuazqKcAKeW2QUQ_9xpzoQQs-EnvJH1ZOebpuMfrS6hFDDnrNRQkz5w=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Telered | SD
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NbpKtTy.jpg" group-title="Filmes Adultos", Brasileirinhas - Garota Samambaia
-https://lh3.googleusercontent.com/0jZ7e12A3eWQR18ghGLjqwC8Og7bTWddhcrjHUdtPXBG6Yptc3SgxQwUYH0w_jKjdZyctkQqo_gSKCuS4h-S8bQpC5Vw35tg8r97E5XyASE0v1b14hxlGTxkp-XBPFBW_aQgsVBsIQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/oGuL3Va.jpg" group-title="Filmes Adultos", Brasileirinhas - Vermelho a Verdadeira Cor Mais Quente
-https://lh3.googleusercontent.com/aPr0rGKhJ9dEfAqV1f4fU_BpQBIO_XC9GrNateoyPd1ituHz5oip0vb2B5beMngXYVIIIm63xi7wl5Bhw3o-PvFtabRTMuuk4grnkaubPxxcXtj5FF9lAw3uVZbStUeptire80nK2g=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLX HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hYSoknS.jpg" group-title="Filmes Adultos", Brasileirinhas - Ninfetas Gulosas 2
-https://lh3.googleusercontent.com/hPxfvi9nXz3yyXYgoyaZYOIwKO71wIlCH-kGCECSZgYqDIBL5s5Rk1Stabcmi0JGsEm8q8PkQ_5RHIOshB4ym_2gbLtyV8rBpENEIMPU4LosrMcJxsV-dC2VtpPozcOWk_ezysFG9g=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TSN
+http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/P0REdy2.jpg" group-title="Filmes Adultos", Brasileirinhas - Exploração Anal 3
-https://lh3.googleusercontent.com/h15OIJrJCIbuGo9zQezwpU_jhSyDN_-PbzA_ReVynCASQ_aNGJMw9QCYMfqaxmdiYXh4pwQc9xmwYvoB7NEs9_ZiYbc8jHpVrPOG8cQaFqEWlb4Mzbb5l-yzWIWyx40ysE4tN3w0gg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Music Choice | HD
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ueKbsKS.jpg" group-title="Filmes Adultos", Brasileirinhas - Derretendo de Tesão 2
-https://lh3.googleusercontent.com/8RhGvVALpIsulYmZaRhBEChvCibAdMMcJMrHEsXS0NDGKKYFW1frRgC0x6CY3ZHpfPpN6bOCNUPEeAYT4z075DamRvdK24rOMP0LQaZ_lZQ-MYYdMmXCY8-LKO_M3nGX6CHmzpkkaw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio 105 Network | HD
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8D3BV79.jpg" group-title="Filmes Adultos", Brasileirinhas - Baile Proibido
-https://lh3.googleusercontent.com/CnD9k-oxTJivDDgYyHYbn0XiIk12XaaYnLZMrwTR_mlNzQ0pIqeoVW6QYQjIQzaSd1ieGkmqlxGMfT8GVU3hb8bOZlNeLq2v1KoS5wu_1QIm1BaBUCdXvoSXv2lmxZTPM5wjW4Bm3Q=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VZmjAsh.jpg" group-title="Filmes Adultos", Brasileirinhas - Dupla Invasão 5
-https://lh3.googleusercontent.com/isi1PLXA7TWEa0P7JDUfkpeW7G1YtTLAHNUE_U04ZdG_xNumA6iI5FZGbIeQ8P7V7NMYevDf8bXZKgJiQi6hcQWJ4N5mri_hVumwIHq81Egrx-L3h8qGeUX18VIiivKwsprHOWA-jw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Retro TV | SD
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BqqqyI2.jpg" group-title="Filmes Adultos", Brasileirinhas - Vizinhas Gostosas 2
-https://lh3.googleusercontent.com/dHDFDvOYAio13cp8LX5I3PXWwTqWWmECoG5m4OWKOQQ0YtkcLy-rnGilgakVB7S2vKQxySYizs1QcQp8B8aor7CMR-3xRwAenMhWiuFpHCFqKNobE3c8nXv7K65On4t2eH6Kfi9VDg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Capital TV | SD
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Lz4XCdx.jpg" group-title="Filmes Adultos", Brasileirinhas - Show de Bundas 5
-https://lh3.googleusercontent.com/L_SZjBNsylLJptsRXjWz-ERP-OtFWy6gM2-eH8Wx0Mp4MGSOHhUeEh5AcGHeeRMQD2vKywDl4-1uEt2hbC4PsTmSySBfu7nxjL-C87bHpr5Q0CWUirSffSVMQzjTHsEVz8xy2yWwAQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio Montecarlo TV | SD
+http://fms.105.net:1935/live/rmc1/.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uJyRnnD.jpg" group-title="Filmes Adultos", Brasileirinhas - A Boneca da Casa
-https://lh3.googleusercontent.com/MiCffeXPiKEJxKEfnaaxNPcAuMzAUfzj2qxhPdlJm52VMmyUM6sF0n8s-0knl8_Ve_qPHhK1xFr2lHAyGB4ueE4c9cpDPFcy79xXJYrsX88rhLp7tUIPlluEETgp9O5RfGFQvNTFPA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DG3ljfZ.jpg" group-title="Filmes Adultos", Brasileirinhas - Sodomizada
-https://lh3.googleusercontent.com/AW9lZ7Dc23dJ_VHF_Prub_jJ8ew5BTrifIS0ydlqnPM0k7qJu7ZlLAnFD6IAWR-nElJv45NxFW_nQAz9q9dRV2WOwH-n6j0SwCv0kgO4XudGB0IRwqZpw04QjvHxshWqY_EYkvW0zg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lTlJm5t.jpg" group-title="Filmes Adultos", Brasileirinhas - Carnatrans
-https://lh3.googleusercontent.com/9CcLHV15gNRjdK-2M1CictuNmGdWq05pCROKnAO2hFqvgHj8nQ81sBEPsX_4BZrGn90gXddltJe5ZxN4Ehuf0_LO0RLBLdM6S5BZD7ipaC4olVqLPUIz6mrrG2pnjkYEQblcZzXfwg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV 538.
+http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CV7JzRJ.jpg" group-title="Filmes Adultos", Brasileirinhas - Contos de Bianca
-https://lh3.googleusercontent.com/DfK1CugTyVQT7ov7DvdELMaUUp55ZLjCqUJ9TsdF-IHrECTaiitHF9s-QiOWvckUwJlYJ2ZHqAovbM8QnctepWVlC1AcOOWllrkbNLaqtoAOb-jzo2jzZR0DKnchJPhpyJHOJYyzGA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Z3rZMDT.jpg" group-title="Filmes Adultos", Brasileirinhas - Casal Bem Dotado
-https://lh3.googleusercontent.com/VR7onjHkwWDEQ-oysFPngx1OJebFv7USSdLAgzrUZq50jMADeSjjLgdZm4Wt1-jK60FxRGXdiaxZfrVoZyU0FMF-umbSiiq6tb5DajKcqS-S-XG_pMcGfFg551kJMNAK38W-TWfmCw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SKY LIFE TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/o6rViWm.jpg" group-title="Filmes Adultos", Brasileirinhas - As Duas Faces de Bianca
-https://lh3.googleusercontent.com/2_zUd270VFsiaoouWKBkD1qBhF7IcNPPokRjqjevMU4chnHURb72ychZ8gPmgv2P13p21BDEwJ0TuLiwgOPNQsk0byWOZt5xaYIlZiZOLEPDqKg99D8wvubzhmMQpmwXXTrKXzgTBQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FRANCE 24 HD - FRA
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Qe4tiPQ.jpg" group-title="Filmes Adultos", Brasileirinhas - Sex Machine 3
-https://lh3.googleusercontent.com/1susT8sSaOhJ9cPixRWlApJZOui3h96kwQ-xkorDXiJPuSIQQiy7MzH3U7S-JGioRQi2VBv-0Bhcfobo1cGroVXE3_lk9-wCend6SSsi4LToOJ7QcoS3AYMsGCtnC_A2R3s1NPpqow=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BLOOMBERG TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vA7BXL2.jpg" group-title="Filmes Adultos", Brasileirinhas - Casal no Pau
-https://lh3.googleusercontent.com/RV_KT6uqwIVGJdDdeaa2ia1F3owVarCTlSnMu3NBwe7qTyv0Wfa17TR2YNRANM8P6RjurhewY1NKM3ECV0mPuAduVXxy8ObTVJiGlVFHPQJD-_J890Ve2-Mf7Lcl13IWecfF-RtVNw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BLOOMBERG TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BZHE5g3.jpg" group-title="Filmes Adultos", Brasileirinhas - A Rainha Do Bumbum
-https://lh3.googleusercontent.com/7lelrUmAbG2nvn7HIqjSqk6FVAbj0iroFx0zWdCNJHXv3clOblm9vHR0yMXqBabWN6lWlArMiQK5nwYAf7C-zxqY5fF96XpNcm5Wac2I5uGTF0CbY0Y2x1OoZfPuNZEQsaK2QBuNwA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDBULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aJrMYkk.jpg" group-title="Filmes Adultos", Brasileirinhas - La Conga Sex
-https://lh3.googleusercontent.com/sdKCvEkZIA-Im9RQmZjeD6Qt7jcNOFB1IqnYyVhnCG7Ft3mz0uV4KlVRDYKZkRVH5qfrswxvX14UENqS3TxgMdYwnt05MNyIpoAuGc8-W6m6BuiSBSW8fUAsGgxiTPofokEY2_Pyag=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WGN NEWS CHICAGO (US)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LVvFkuY.jpg" group-title="Filmes Adultos", Brasileirinhas - Pecados e Tentações
-https://lh3.googleusercontent.com/dCqNogC401-6Jb2h9wJqlpykh6Ps7elpQEAwl2905NwqEiWcqsAutq-zJeZ_xGylD8YdUvgFgqd12y6kCYKMHJpeVjAh8tX3WdXg3sTjItV6SN4ckmb4Onu6bch8k7DfVZob8VNW7g=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV ESCOLA
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xPWclDj.jpg" group-title="Filmes Adultos", Brasileirinhas - Família Incestuosa 3
-https://lh3.googleusercontent.com/5LET25tAM-dilk3G7ulrfgnWiFLha26_1U4aPxr0EOyOXx5XS3cWA3B93xHBrFd9B4MdQsK9Vhx1vfsliDm0tkCsUHcNfGBm9H7tXIGvANtIs9qZrVmSfsRjbgjSO7IgZ-wGuN4cMA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YeZ2Ki7.jpg" group-title="Filmes Adultos", Brasileirinhas - Sexo Pro Povo Ficar Feliz
-https://lh3.googleusercontent.com/DhENWBxM77qw54PzyMkZWJ6Db_4h4xRvSeo50FuyfJ9FjaQDi7WBuHwQ0SFYmKkB9kXlEZsMmWIhnweuoV8FHdag1KT_u1M8-69mNHjxELPwAbVcSvQbtVU1F5Hqx9AssTS_drpQ9A=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AUTOMOTO
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0g9QnqL.jpg" group-title="Filmes Adultos", Brasileirinhas - Vivi Com Anal
-https://lh3.googleusercontent.com/Nb20rxLmVxGkC2erK5AcwMVt8Sg_ZEUiVOn4kvvlNN37xCcopSj8lQi99TDPdrG2qnm6ItbiFMyGgus-KyJxg4lI03agtyAWrlyCHJCWhNEfEjQ0VlS-FXWDWuTqVMiRNUS28Z4HdQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Olympic Channel | FHD
+http://live.olympicchannel.com/ocs/channel01b/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UqG4dJo.jpg" group-title="Filmes Adultos", Brasileirinhas - Felação Premiada
-https://lh3.googleusercontent.com/M1UThzImF7grCQbT9v6DMCYQJvlevHLpAq1vU9SCG_GGRjmmVEx51WBZrjiC5H59FmJd05WYsFIPReBEA-riYlVT3CQe64U6k9LQh3FgXUjx2OQzte888AZHF6DARX0YVU0xNoyTDw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/sKpG9jH.jpg" group-title="Filmes Adultos", Brasileirinhas - Samba Pornô 2
-https://lh3.googleusercontent.com/QLeDcV32MFJ1HyPUd1cvtVSZdIbMLmt_pCEje1rMWL2DM04b0xmR-yHrp6_px5fyO2TQVasXbQGV7Y1p8KQ3ZfB0393YgvQ1bb5FKwUdpJxGbUqNjj00etQeq1BicaJTGa_CIIIrJA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8KmDqjk.jpg" group-title="Filmes Adultos", Brasileirinhas - Fome de Sexo
-https://lh3.googleusercontent.com/bTvwBl5MI-lzI-IJEfd_ow9143Mcf_UKIogTYzu23MKjJlokroJ4AT_brQS7OMssYl41N1ucW7x5tTrPRbpRCorGDAge3D9bS7buEhv12Bum7XEiCwuuNjYUq83MbIutaUwWz0EKXA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ABU DABI SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ys5EmbL.jpg" group-title="Filmes Adultos", Brasileirinhas - Garoto de Programa
-https://lh3.googleusercontent.com/qZ6NykoJ5lnuAZDVCu9Hyi7PcdYPgfbd7VDlbcEVVlCXgSHW3dsRk4EsgPZhpXUyIjoManhS6Y8Bzu69amrzZP67XrRJidwU45r969Fz3AZYur3LOu9rIj9XJcAJJt_6fwtKzLdBgA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ABU DABI SPORT HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5FqQO3L.jpg" group-title="Filmes Adultos", Brasileirinhas - A Musa da Borracharia
-https://lh3.googleusercontent.com/l1I0u_9ZXJsLLdpVO2QMVv_48fwplMZ8CiKd_mh2rR_1c0RLlJKOeEhUszE9QiT2PzvOVP_8-VQnCcsQSTUf41g99NgmF0F7C3pOQOU1FNEgwaw1Tsk7SZTAxMFFSXDIhCHIZc_ZeQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ABU DABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Zvonujo.jpg" group-title="Filmes Adultos", Brasileirinhas - Carnaval 2007
-https://lh3.googleusercontent.com/6d4BOXewi83RuRfHtwMr1ybUwoFLv0cT2evYX0KWFmtl7r5Bp8dFgnz-avC5AphBtl1GDvTiRqCJmURIs2eGoapBthjik9JrU35uW112ISXkUUSo1TQBV_bapdudYCuBko98TJbRsg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/w0UrFb2.jpg" group-title="Filmes Adultos", Brasileirinhas - Funk x Carnaval
-https://lh3.googleusercontent.com/iDiy4kPkPZ3Gj4RsKoWaRxmlI_5xX_plnk_j8eWOQLjMQSkHjPxnhmVwktOA45X--yDIdFcOhNOGf4xS3Qx-3M8KHwMOojYKNtALG-rgB2PekNCIYqEQaaoaPdLM576Esy7bAGo0bg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DBSQbCD.jpg" group-title="Filmes Adultos", Brasileirinhas - Sogrão Caprichou
-https://lh3.googleusercontent.com/h1Mk977Y6yfA_Be_gySQP26gFeRk7cvpnVIXcKWr9yJxbAdz2Nwc3Nns-3wBIvTJ74F4hT5OKQvb3UX5hqAojLrfgGWLCiPVRfvXhtDNMUWwjhWnyKgRopbwy0UQtZUB4JZ9tSFH3w=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UYk2fRv.jpg" group-title="Filmes Adultos", Brasileirinhas - Eu Quero Tchu Eu Quero Dar
-https://lh3.googleusercontent.com/pKUvrAkOoNyPcCxMInXMtbuzclL-fZEx6kqXlc5TGxFromBGbY0elM1FsfE46heSaMVamAlckhFjAsMVzqDNXZXc5ezi74VMc14bW_kzYtlolFL-qT-77lBq4cig4UVUOiWQXdmnaQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE FILMES 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eQsaGkh.jpg" group-title="Filmes Adultos", Brasileirinhas - Assim Você me Mata
-https://lh3.googleusercontent.com/MuGryqVv8-31jVX_uX1EHsBx6WJCg2tNyDT0l-QLbtTGrDqeD9yQ2x7tnu2-QWETRw6GVtAL639KTymIaR04Wf_2ORryBKmCpxEL8kV7XWqM7VLMN-4DhJ9r1fkZa6NPRSpTMce57A=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uW5MD2a.jpg" group-title="Filmes Adultos", Brasileirinhas - As Sete Gatinhas
-https://lh3.googleusercontent.com/vlaisSIbJ9-76R-n6D19Hez5nSt9axA8mN1xW5IG6CsArTTpQ0IdjxQDec2D3LDdWq_NPOA0GS-n2ZgOozQ3YSAQnoHuirDcgtW-Myxl3JP2LAWdFdCgoxTkMmnjTC6bCmNd7pnNAA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GOSPEL TV - FILMES
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Pff9GTp.jpg" group-title="Filmes Adultos", Brasileirinhas - Agora Eu Fiquei Doce
-https://lh3.googleusercontent.com/3BPNCotgL7WmF24tGAVkYs8qkWtov2P7I3cc1tMA3YMCy-7XLvKDuSw34RQIrHa1Tf92i_UBYckIMb18at4uep-NWliVQOcdlSij3ItTr5zMuhJaKLfU1j3LoDd2uBCSJqxlb9boGQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dcAsoWz.jpg" group-title="Filmes Adultos", Brasileirinhas - Kid Bengala e Bruna Ferraz
-https://lh3.googleusercontent.com/YjXZI7XTC9BCS-mN8r0EOMu1ErL7uWvhdOmooW9XbePn7vd8CZUwFDbBCEqKEbRrKZp9gCvkuDmqmMsODsAWJgbb8OnJ1RIY4ltvu8AYWQX9gRasaL5qW2o9FrspoIvs5mH8o8oa=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE + 2
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uMVQolc.jpg" group-title="Filmes Adultos", Brasileirinhas - Quem Vai Transar Com Mary
-https://lh3.googleusercontent.com/aNAfO5ptHhHqsYXF3__BqtEfy1vNBgEj1Uy8i89Ax07nGWyvdSupRhFOf5W204YO5xKxTZpqh7VjEChfpvGIzj-vIV_lPt6_bmRm1uiSmkXBxtG6CsH00U_5ci-DNWMfZMKADSN4=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SÓ FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?DantasIPTV
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lzK3MD1.jpg" group-title="Filmes Adultos", Brasileirinhas - O Homem Elefante
-https://lh3.googleusercontent.com/EadgTP-S3llabeSsx2_O4tf8e5sBa9ovmPfjzmw_8fjlfe4HVcvV1WBT4Huc7eEIz2BMq7d0qDdlHCPVTT5sj7re2Jy94N8VjxE4QnGftuIHxg8pDSi2LIJY4KvfLxWr83j-yRI0qA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yM2OyBf.jpg" group-title="Filmes Adultos", Brasileirinhas - Puro Desejo
-https://lh3.googleusercontent.com/83QRG0e9rTqIsGwH9F0AQ7y8yfInh5QEVsYfsWu-_3Md82WkLQOuppQ3a-jAXTfBH3Wly5F1z0tX8F0KaLn7k_blkAEI1Yxu9mRTiQ8KGHwNU1u-7LexetaNJfGAR1f2T-bnsqiw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CBN - CAMPINA GRANDE
+http://audio.cabobranco.tv.br:8000/cbncg
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/D7WNoZz.jpg" group-title="Filmes Adultos", Brasileirinhas - Irmãos Gêmeos
-https://lh3.googleusercontent.com/ku8TIwSOMSXvkBI9hUrV1BJh7zu9YaNa9XS-mRVM6mI-PuZblc9VxB2yhC8EaCg2L-3RpFoQguyU7g6hhAIQb_vPFhLCgCwpTiolvVAgW1E2Aq-RxKhwdUafqU8-pNG9CMCFt7KZeQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CORREIO 98 FM - CAMPINA GRANDE
+http://ice11.crossradio.com.br:8026/;*.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/adT3Djc.jpg" group-title="Filmes Adultos", Brasileirinhas - Sex City
-https://lh3.googleusercontent.com/5jJ1r0tCLMPRCuECms4sPcN-JHiK7M8arertHihyxLTqxKWXUVdtdy_PRyspfaSNQB2bpULF4fxuApOxm-nAJUsLAU8UXS_dPfENg3vsQ8P5bGP3DBvFk8lKmb0a1c6ts1-4KQFapA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ARAPUAN - JOÂO PESSOA
+http://centova6.ciclanohost.com.br:9104/;stream.nsv
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ke5xxJu.jpg" group-title="Filmes Adultos", Brasileirinhas - Deusa 300
-https://lh3.googleusercontent.com/4gMlB1nYydnpQ6PkfaSTD53F4uM4jnXpKO0wVFDUSQNnt87uDQGlR2WbYi9E3OWWdfQaDjNmoYJKA7piB2xvbD5A1_ljr4uaatpT8CSRo-W2xu9vIicS1n4KBN5ywfAQLgJoppvbZQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CORREIO - JOÃO PESSOA
+http://ice11.crossradio.com.br:8022/;*.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pZ1Zl9W.jpg" group-title="Filmes Adultos", Brasileirinhas - A Teoria do Gang Bang
-https://lh3.googleusercontent.com/waz8aIum5U-5aEwQak1moXxiugZ1qi81W__lsKDzRJRPUbUaU3_Ijb9WbpXIrDUr1Z8ev0CUnftZv3TXS_iMr5dKsN9-llmPhCPW0e-7c_MCme9eShr7IF6GvO_3_O8o09QgSt8Z3A=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CORREIO 98 FM - JOÃO PESSOA
+http://ice11.crossradio.com.br:8014/;*.mp3
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CVFCk9M.jpg" group-title="Filmes Adultos", Brasileirinhas - United Colors Of Celebrities
-https://lh3.googleusercontent.com/SI1Xuav18dk_p2Lgu9iEJA13fpnBAAXMKu77Oh3UvhqdOrALWQK3t0fNH3qCt1dZ_6qtUFjuFOB3g9MA7ehHe7v-C9jADhoeQDDkK18XWhy_vub5rJTJGzpxgUMlUoBPovCjGbWgiA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MIX FM - JOÃO PESSOA
+http://158.69.117.161:8016/live
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2gJNtJt.jpg" group-title="Filmes Adultos", Brasileirinhas - O Melhor de Big Macky
-https://lh3.googleusercontent.com/ISwP-nRZeCMrjYQ6ENvu-mN79ox8VadyDjd1UCZPvxnty-BuV0WKpqDXpSPTgu7dZep69GWk_6mlV-_RbUjFIVr8exf661qagO096uM_wh55MpdE6I98xypI7-lso7CD_V6V_STKOA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CABO BRANCO FM - JOÃO PESSOA
+http://audio.cabobranco.tv.br:8000/cbfm
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yVK8c5s.jpg" group-title="Filmes Adultos", Brasileirinhas - Se Eu Comesse Você
-https://lh3.googleusercontent.com/rt-DPRFYbEjvvhtf3RVeNHA9r6yRQgupPiAh6M20jvhBa9gYvnT1BPTKQgwwOnb2_ZZeJ8a22y2R6czI9kmvV4gNPhnGqHSb8PpxtgN64gTT7Cav_li_933juaHazp35xIg4F8qyGQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CPAD - JOÃO PESSOA
+http://server3.webradios.com.br:9404/;
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DUip2hQ.jpg" group-title="Filmes Adultos", Brasileirinhas - Belas Bundas Brasileiras
-https://lh3.googleusercontent.com/mAbRWfQEB6JeZA2cJt_TgAby-XNWzQGTJ-HS5mfa6t8VoKpvrNP3lT7VGAjjxEHSPyWQwFJjJVs9KTBE1euQoeMVzGJs6OIjtMj0oa8VsQ3ERFbgIi9bpGizH8yXwBlED3rv4LFx3A=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 104 FM SOUSA
+http://stream.7br.com.br:10018/;
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/29VRCXT.jpg" group-title="Filmes Adultos", Brasileirinhas - Comendo Anita
-https://lh3.googleusercontent.com/Y8IwnU7tuh1txSXCRMBB5Uezgm3bzL6xsxXWArdwsJkVuUV47kNMIlK40WOlCNx0Embh5dCDwSg6wvbBkAv4Y5o99NGhAhheT4UahkO_4SLmzMQ0sDNR7k3_wlgBtKiz9ao8p9CMAw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIDER 97 FM - SOUSA
+http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Fp5qXu3.jpg" group-title="Filmes Adultos", Brasileirinhas - Carinho das Índias
-https://lh3.googleusercontent.com/lrRTrGZayEzPGEmQXTc6AvExTeX-4U6SzcE8Q92EFoy0QvC1-2rmo_GVyb2sOqNgeq1U3TEmzctj0IDHbbYOVPD5KReF7e1ud1b7ZVDvdfLQYwzTDlTAOcdjH08iLM0AeAgZw1tCUw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LIBERDADE FM - POMBAL
+http://centova14.ciclanohost.com.br:8180/;
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AZmbhHk.jpg" group-title="Filmes Adultos", As Panteras - Encontros Ardentes
-https://lh3.googleusercontent.com/1QSV6HkId5mFhDoBSQb9RSN6jzoWqtH7NAEVV2Dd7gPUHbeR2mvp3m0jNFDzKbnNRIIQ7CNWOB_bz1cX5q94BS_Fe3R_cbfV3UWJ80-dz8axzWqsYYhoNXrForIwLc8hP12EuvQlIw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESTAÇÃO JC - POMBAL
+http://streaming15.hstbr.net:8224/live
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8463bVE.jpg" group-title="Filmes Adultos", As Panteras - Aninha a Cabritinha 2
-https://lh3.googleusercontent.com/e-I4PJCnjhv3oosERvSd-HtVCljsNUGUcmCp_V2cwWH2t8JmRSiEwVth7A4R_kh6nx1amPSkBMWZJVegAoOKCj5RMm-oKdA6nmsScFDnn5mwC54V6wiCopliBJRkY0dn2IBWPBblzw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB RÁDIO NO TOQUE DA BOLA - POMBAL
+http://server01.ouvir.radio.br:8060/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rMJwHgy.jpg" group-title="Filmes Adultos", As Panteras - A Cunhada
-https://lh3.googleusercontent.com/Ku-qgq7GIUQIQTAdg-bgttAZPbe5W4u8-0QAvp0OVBXgJ-k_G7jqXYHCvGcKJZ9gfH3XcNgUGy3AaL2K7py5boYwmEGXWUL387ddVyof7NbD-DwzolfFSysbR8-4TMPHnYN6C63F6Q=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ARAPUAN - CAJAZEIRAS
+http://centova6.ciclanohost.com.br:9346/stream/1/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AoF8ByA.jpg" group-title="Filmes Adultos", As Panteras - Sequestro Por Amor
-https://lh3.googleusercontent.com/uZHJ16tAuZXXHdf9eZbjxBY0zepTG0947EL3wqwwwxQfV3872wQg74r0PiNcZDtrB1uzD8QP4x0q58aLP8h9ZcLKkZmNFZAx2IkiwYjYZt27SFimCvgGKjl1KRfrNn6AOF6w0P2Abg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RADIO OESTE AM - CAJAZEIRAS
+http://streaming06.maxcast.com.br:8120/live
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tWYfpgL.jpg" group-title="Filmes Adultos", As Panteras - Colegio Interno
-https://lh3.googleusercontent.com/KKGyH6OWBaKGCLeROUlcm-XG7f2lc7gwV00Ut62-HGZmsckEJQYGXUWJ-G9SrlLKbST6hvYmscDbl_uVCTTqn2xyD_91JCLIPJJbCfY0IZl4flIIkcVsawD-lDV2rpEijnixw2QlMg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ARAPUAN - CAMPINA GRANDE
+http://centova6.ciclanohost.com.br:9518/;stream.nsv
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4PoARd3.jpg" group-title="Filmes Adultos", As Panteras - Aventuras De Um Caminhoneiro
-https://lh3.googleusercontent.com/6EYVtqjLr7IU966oND5PoRanWa1qAhQtZOuu0rw4-DDI-Of2uEJ0U0zTF2B6HA32nQUZ1z6ZQR8Mx04eyJ_6scxztgBGOen71wyNQDqnbdkiJPpTE6lRQP0zhoOV-R_uHAYvsdG4qQ=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ARAPUAN - PATOS
+http://centova6.ciclanohost.com.br:9312/;stream.nsv
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QCRxvDP.jpg" group-title="Filmes Adultos", As Panteras - A Outra Face de Julia
-https://lh3.googleusercontent.com/D5KPJQEzNLdMQ7Y8KXYwTIHn9ZPXxB8Sjsgh1OMMW1VMfkLxzjKHy_QL_0ZNOoGGV7B0KGoFuQlTMFXK78SUnqkm7NTIGxSMygblDiPfKjmB4i5aoPTxlfMM17mEE6pM0H9OosTsLA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPINHARAS AM - PATOS
+http://stm45.srvstm.com:26924/stream/1/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mMinAjt.jpg" group-title="Filmes Adultos", As Panteras - A Beata do Seu Gomes
-https://lh3.googleusercontent.com/33iKVix-qi4NKmMMvwoZXJVXUkmhAvleG9lgzUVnNmr3f5TLFKKNspvmSoe2nMzH3btvtsw0vX2LjfFhkhLVvLDcczA41q8rHJBceKFpWqk-DBtfQBE5xiG8vMz7vI4wVM9bOQ3Tkg=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MTjpel6.jpg" group-title="Filmes Adultos", As Panteras - A Hermafrodita 2
-https://lh3.googleusercontent.com/e-SvMW2Jxfhndj0H1GB6xN5CfX445E59BoaDDLiPKHdwBGDY5LZirFATs_qnIMDnsJjfg3V_oFjNCj8zNPldGC7lYW1FCgoAUbOizCn0Knh2QEIHBoi2hYeOyMbV-L64WnS0sGw0SA=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RAP NACIONAL
+http://192.99.150.31:8377/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3IaJ47s.jpg" group-title="Filmes Adultos", As Panteras - Louco Desejo da Sobrinha
-https://lh3.googleusercontent.com/Z_iZjwa7e2p0L4uA-lZOUMaqxopVY1wsk1rGx1M3gHZWlLFV1t-zAqf_SCOP5H4rVBFfhxoU1UYSWtis2sUKAt4kCgtF8ClucOM-OoQKNGnlXmpKW_yFjMVz5O8GxikUIU6MwdB0Jw=m18?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REGGAE
+http://192.99.150.31:8715/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pyjJfsM.jpg" group-title="Filmes Adultos", As Panteras - Incesto 7
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ROBERTO CARLOS
+http://192.99.150.31:9137/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FmoUyWO.jpg" group-title="Filmes Adultos", Angel Lima fazendo dupla penetração
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ROCK CLASSICO
+http://192.99.150.31:9125/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/K7gUgXr.jpg" group-title="Filmes Adultos", Ninfeta brasileira fodendo com vizinho
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/09c220507e5eacd02a880a5c0d86d2f054502a0687/21000/21377/21377_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RODEIO
+http://192.99.150.31:9473/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yGOBTZr.jpg" group-title="Filmes Adultos", Putinha sentando forte no pau grande do namorado
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/8b6be2c1709099cf93b91e7f678c2405e83cc07459/21000/21437/21437_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SERTANEJA
+http://192.99.150.31:9485/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmD4Z7Z.jpg" group-title="Filmes Adultos", Novinha amadora gostosa dando a xoxota
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/ab4875ffc054d310b3c9212cad744105caede94cbf/21000/21604/21604_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SMOOTH JAZZ
+http://192.99.150.31:8042/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QArkW7D.jpg" group-title="Filmes Adultos", Amigas no hotel trepando
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/31dd38c89a8141393b55e646ddef3ff0e0fb32374f/21000/21852/21852_240p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TECHNO
+http://192.99.150.31:8301/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GOsRBYA.jpg" group-title="Filmes Adultos", Morenaça rabuda fodendo no cassete grosso
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/e71af7fb85907d1dcdeb67294606aa968e82f2b211/19000/19307/19307_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TECNO BREGA
+http://192.99.150.31:8989/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jLk6XN3.jpg" group-title="Filmes Adultos", Chupando a boceta grande
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STUDIO DO AMOR
+http://192.99.150.31:8962/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hN4OBff.jpg" group-title="Filmes Adultos", Pâmela Pantera fodendo toda lambuzada de óleo
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/5b732cbd90fb4ae00e4b00687f76e8e20698260669/19000/19288/19288_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", METROPOLETANA FM AO VIVO
+http://ice.paineldj3.com.br:8006/live
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OD686na.jpg" group-title="Filmes Adultos", Giovana Bombom fodendo cheia de tesão
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9ad35805e2670ae8523b6ceabb5d826db39d0d2dd4/20000/20347/20347_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", METROPOLETANA FM - SERTANEJO
+http://m.paineldj6.com.br:8504/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FXk7xSA.jpg" group-title="Filmes Adultos", Manu Fox fodendo na cozinha
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/01a5b4326587179de1c1c4d9424a54e33314993860/21000/21622/21622_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", METROPOLETANA FM - POP
+http://paineldj4.com.br:8510/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IIU3rps.jpg" group-title="Filmes Adultos", Comendo a mãe e a filha
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/cb4ae6395bb82e8b711b220c31151cf925cfcce3f8/21000/21718/21718_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", METROPOLETANA FM - FUNK
+http://paineldj4.com.br:8306/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CcUOykN.jpg" group-title="Filmes Adultos", Dois paus no mesmo cu
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/1337a738b4fd5a50686c3eeb5e0b5bed2f86053e9f/21000/21717/21717_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", METROPOLETANA FM - LIGHT
+http://paineldj4.com.br:8594/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LYdoldz.jpg" group-title="Filmes Adultos", Sexo quente com uma morena safada
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RÁDIO ATLÂNTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pDoLiOi.jpg" group-title="Filmes Adultos", fodendo na banheira
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/df3ec0bc3c9cdf0da0338717be8a6bf017119c485b/21000/21339/21339_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RÁDIO ELDORADO FM
+http://noasrv.caster.fm:10136/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tIiSXMz.jpg" group-title="Filmes Adultos", Loirinha safada no motel
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9fc60d8a025b57ddfad75bd4b4d494855ca8cb739d/18000/18952/18952_360p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RÁDIO HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jqxd67C.jpg" group-title="Filmes Adultos", Loirinha safada no motel
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679832c9629c2/2000/2116/2116_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RÁDIO MIX FM
+http://mixaac.crossradio.com.br:1100/live
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/z6r7x8N.jpg" group-title="Filmes Adultos", Loirinha brasileira no seu primeiro porno
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/99d02092b408964ec2938497e8548b8fc8f63bbec9/2000/2131/2131_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RÁDIO PRINCESA FM
+http://noasrv.caster.fm:10124/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/F5ICepd.jpg" group-title="Filmes Adultos", Pegou na praia e levou para o motel
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491e763ccfa76/2000/2208/2208_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RÁDIO ROBERTO CARLOS
+http://192.99.150.31:9137/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/A5Pnx5h.jpg" group-title="Filmes Adultos", Marido aquecendo para o negrão comer
-http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RÁDIO STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RÁDIO TRANSAMERICA FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MIX 106.3 SP
+http://mixmp3.crossradio.com.br:1102/live
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GOSPEL FM 89
+http://209.126.127.123:8885/live?1522866827534
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE SKY 2
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA CINEMA 4
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT 2 HD (ON)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REAL MADRID TV HD (ON)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Real Madrid TV SD (ON)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ABU DABI SPORT 1 HD (ON)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CULTURA
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Santa Cecilia (Santos-SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RAI YOYO
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CLASSIQUE TV ALTERNATIVO
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV VIANNEY
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPORTE INTERATIVO 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA CINEMA 3
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA CINEMA 5
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", All Sports 2
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CDO Deportes
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Viasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT 1 HD (ON)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FUTURA
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1787465552.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Cultura PR
+http://200.189.113.201/hls/tve.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rede TV RS
+http://wse8.player.tv.br:1935/rafael926/encoder/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Classique TV 1
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Classique TV 2
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine+ 1
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Filmes 2
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gospel Movie Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Alpha Channel
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rede Atividade
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVCADM
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Clima
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MKK Web TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Multi Rio
+http://187.111.97.45:1935/webtv/webtv/live.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Maceió 1
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Santa Cecilia
+http://flash1.crossdigital.com.br:1935/2063/2063/chunklist_w79166362.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE 1
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DW2
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_4_av-p.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV 5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Senal Provincial
+http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 1-2-3 TV Alemanha
+http://123tv.cdn.ses-ps.com/index.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Clima
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?wowzasessionid=656679665
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Kiss FM
+http://kissfm.live24.gr/kiss2111?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Mix Sao Paulo
+http://tuneinmix.crossradio.com.br:8008/;?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Anos 70
+http://192.99.150.31:8241/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Anos 80
+http://192.99.150.31:8697/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Anos 90
+http://192.99.150.31:8056/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Axé
+http://192.99.150.31:8305/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Brega
+http://192.99.150.31:9007/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Eletrônica
+http://192.99.150.31:9095/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Funk
+http://192.99.150.31:9089/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gospel
+http://192.99.150.31:9101/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Hip Hop
+http://192.99.150.31:8721/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Historinha Infantil
+http://192.99.150.31:8371/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Jazz
+http://192.99.150.31:8042/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Kids
+http://192.99.150.31:9431/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MPB
+http://192.99.150.31:8775/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rap Nacional
+http://192.99.150.31:8377/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Reggae
+http://192.99.150.31:8715/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rock Clássico
+http://192.99.150.31:9125/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Românticas
+http://192.99.150.31:8962/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sertanejo
+http://192.99.150.31:9485/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sertanejo Universitário
+http://192.99.150.31:9191/stream?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Las Vegas
+http://videos3.earthcam.com/fecnetwork/eclasvegas.flv/chunklist_w1100686854.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SPORT 2 HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Agro Canal
+http://189.86.89.116:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Portal FOX Mix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio Bruno
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio Capital Tivu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio Monte Carlo TV
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rede Mao Amiga
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Cachoeira
+http://stream.novotempo.com:1935/tv/TvNovoTempoCom.smil/chunklist_b2128000_slpor.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Maceio
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Mais Canedo
+http://tv01.logicahost.com.br:1935/maxjalles/maxjalles/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1059498431_b714000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVM Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w1107171210_b714000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Viasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Web TV Leao de Juda
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Web TV Minas
+http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AR TV
+http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL 20 TV
+http://wse8.player.tv.br:1935/canal20/canal20/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL 25
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARIOCA TV
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CATVE HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPORTE INTERATIVO
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPORTE INTERATIVO
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/580126d58e928419094b5527/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPORTE INTERATIVO 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ESPORTE INTERATIVO BR
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FONTE TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GOSPEL CARTOON
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", INFOR BAHIA WEB TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LEIRIA TV
+http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MKK WEB TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTI TV CIDADES
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE MÃO AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE RCT
+http://tv01.logicahost.com.br:1935/rederct/rederct/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STZ TV
+http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV A CARA DA BAHIA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV APARECIDA
+http://caikron.com.br:1935/tvap/tvap.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV APARECIDA
+http://caikron.com.br:8081/tvap/tvap/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV ASSEMBLEIA CEARÁ
+http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV BOA ESPERANÇA
+http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CACHOEIRA
+http://stream.novotempo.com:1935/tv/TvNovoTempoCom.smil/chunklist_b2128000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CÂMARA ARAGUARI
+http://streaming60.sitehosting.com.br:1935/indoor/indoor/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CÂMARA RIO GRANDE
+http://stream.camarariogrande.rs.gov.br:80/hls/cmrg_512/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CAPITAL 777
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CATOLIC
+http://stmv2.euroti.com.br:1935/tvcatolic/tvcatolic/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CAXIAS
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CEAK
+http://stmv2.euroti.com.br:1935/ceak/ceak/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CIDADE FARROUPILHA
+http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CIDADE VERDE
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DAS ARTES
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIÁRIO DO SERTÃO
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIFUSORA
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIFUSORA SUL
+http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE BAHIA
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE BAHIA
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/pgm-2/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV É-PARANÁ
+http://200.189.113.201:80/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV EVANGELIZAR
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FAAP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FÁTIMA PARATIBE
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV GIDEÕES HD
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV GUARAPARI
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV LOUVAR
+http://tv01.logicahost.com.br:1935/renascer/renascer/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MACEIÓ
+http://tv01.logicahost.com.br:1935/toptv/toptv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MAIS CANEDO
+http://tv01.logicahost.com.br:1935/maxjalles/maxjalles/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MISSÃO
+http://wse7.player.tv.br:1935/tvmissao/tvmissao/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MONTEIRO
+http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV PAJEÚ
+http://stmv2.euroti.com.br:1935/tvpajeu/tvpajeu/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV PORTAL DA BAHIA
+http://tv01.logicahost.com.br:1935/tvportal/tvportal/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV RIO PRETO
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV TRANSAMÉRICA
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV TUBÁ
+http://caikron.com.br:1935/rcr_tuba/tv.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV UP HD
+http://caikron.com.br:1935/unipar/tvup/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV VERDE VALE
+http://ssh101.com:80/m3u8/dyn/13verdevalelive13/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV VIANNEY
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV LEÃO DE JUDÁ
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV MINAS
+http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV UAI
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANOS 80
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SERTANEJO
+http://192.99.150.31:9191/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SERTANEJO 2
+http://192.99.150.31:9485/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANOS 70
+http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BREGAS
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MÚSICAS INFANTIS
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DUSBSTEP
+http://192.99.150.31:9083/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ELETRO HOUSE
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FORRÓ
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", JOVEM GUARDA
+http://192.99.150.31:8801/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LOVE SONGS
+http://192.99.150.31:8897/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SERTANEJO RAIZ
+http://192.99.150.31:9155/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REGGAE
+http://192.99.150.31:8715/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ROBERTO CARLOS
+http://192.99.150.31:9137/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ROCK CLÁSSICO
+http://192.99.150.31:9125/stream?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Agro Canal
+http://189.86.89.116:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Alpha Channel
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Canal 25
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Carioca TV
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", caTVE HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DeporTV
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?Arlen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", InforBahia Web TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", J.Sid
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Leiria TV
+http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", M2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Master TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MKK Web TV
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Multirio
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Portal FOX Mix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio Bruno
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio Capital Tivu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio DJ TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio Monte Carlo TV
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Rede Mao Amiga
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Cachoeira
+http://stream.novotempo.com:1935/tv/TvNovoTempoCom.smil/chunklist_b2128000_slpor.m3u8?LISTASGLAU
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Cidade Farroupilha
+http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Maceio
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Mais Canedo
+http://tv01.logicahost.com.br:1935/maxjalles/maxjalles/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Vianney
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1059498431_b714000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVM Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w1107171210_b714000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Web TV Leao de Juda
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Web TV Minas
+http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Web TV Uai
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV Futura PR
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIARIO DO SERTÃƒÆ’O
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV BRASIL
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FAAP
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FAAP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", REDE MÃƒÆ’O AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AR TV
+http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL 20 TV
+http://wse8.player.tv.br:1935/canal20/canal20/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL 25
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARIOCA TV
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CATVE HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FONTE TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", INFOR BAHIA WEB TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LEIRIA TV
+http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MKK WEB TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NOVA TV FRIBURGO
+http://ssh101.com:80/m3u8/dyn/ntv14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", STZ TV
+http://pge0907stz35.nethorizontes.tv:1935/pge0907stz35/stzwebtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV A CARA DA BAHIA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV ASSEMBLEIA CEARÃƒÂ
+http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV BOA ESPERANÃƒâ€¡A
+http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CÃƒâ€šMARA ARAGUARI
+http://streaming60.sitehosting.com.br:1935/indoor/indoor/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CÃƒâ€šMARA RIO GRANDE
+http://stream.camarariogrande.rs.gov.br:80/hls/cmrg_512/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CAPITAL 777
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CATOLIC
+http://stmv2.euroti.com.br:1935/tvcatolic/tvcatolic/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CAXIAS
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CEAK
+http://stmv2.euroti.com.br:1935/ceak/ceak/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CIDADE FARROUPILHA
+http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CIDADE VERDE
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DAS ARTES
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIÃƒÂRIO DO SERTÃƒÆ’O
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIFUSORA
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIFUSORA SUL
+http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE BAHIA
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE BAHIA
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/pgm-2/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV EVANGELIZAR
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FAAP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV FÃƒÂTIMA PARATIBE
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV GIDEÃƒâ€¢ES HD
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV GUARAPARI
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV LOUVAR
+http://tv01.logicahost.com.br:1935/renascer/renascer/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MACEIÃƒâ€œ
+http://tv01.logicahost.com.br:1935/toptv/toptv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MAIS CANEDO
+http://tv01.logicahost.com.br:1935/maxjalles/maxjalles/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MISSÃƒÆ’O
+http://wse7.player.tv.br:1935/tvmissao/tvmissao/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MONTEIRO
+http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV PAJEÃƒÅ¡
+http://stmv2.euroti.com.br:1935/tvpajeu/tvpajeu/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV PORTAL DA BAHIA
+http://tv01.logicahost.com.br:1935/tvportal/tvportal/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV RIO PRETO
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV TRANSAMÃƒâ€°RICA
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV VERDE VALE
+http://ssh101.com:80/m3u8/dyn/13verdevalelive13/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TV VIANNEY
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV LEÃƒÆ’O DE JUDÃƒÂ
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV MINAS
+http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", WEB TV UAI
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8
