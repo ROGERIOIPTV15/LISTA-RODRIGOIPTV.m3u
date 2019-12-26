@@ -1,5 +1,11 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
+#EXTINF:-1 group-title="CANAIS",Rádio 105 sd Itália
+http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
+
+#EXTINF:-1 group-title="CANAIS",M2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+
 #EXTINF:-1 group-title="CANAIS",TELECINE PIPOCA
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32397
 
@@ -151,7 +157,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32364
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32755
 
 #EXTINF:-1 group-title="CANAIS",ID-INVESTIGAÇÃO DISCOVERY
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33808
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33644
 
 #EXTINF:-1 group-title="CANAIS",MAIS GLOBOSAT
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33646
@@ -163,7 +169,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33652
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33653
 
 #EXTINF:-1 group-title="CANAIS",COMEDY CENTRAL
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33570
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33791
 
 #EXTINF:-1 group-title="CANAIS",CURTA!
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33807
