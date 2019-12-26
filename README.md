@@ -272,27 +272,3 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32552
 
 #EXTINF:-1 group-title="CANAIS",PREMIERE 8
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/37466
-
-#EXTINF:-1 group-title="CANAIS",BABY SHARK 24HRS
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38852
-
-#EXTINF:-1 group-title="CANAIS",GALINHA PINTADINHA 24HRS
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38840
-
-#EXTINF:-1 group-title="CANAIS",MASHA E O URSO 24HRS
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38847
-
-#EXTINF:-1 group-title="CANAIS",MEU AMIGÃOZÃO 24HRS
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38851
-
-#EXTINF:-1 group-title="CANAIS",PEPPA PIG 24HRS
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38830
-
-#EXTINF:-1 group-title="CANAIS",POCOYO HALLOWEEN 24HRS
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38853
-
-#EXTINF:-1 group-title="CANAIS",POCOYO PIRATA 24HRS
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38855
-
-#EXTINF:-1 group-title="FILMES",Uma dobra no tempo
-https://hgt5e3.vkcache.com/secip/0/F0nvFai11vfAlwP8QWFpxA/MTg3Ljg0LjMuMTY=/1577372400/hls-vod-s03/flv/api/files/videos/2019/07/19/1563511664mqjl4.mp4.m3u8
